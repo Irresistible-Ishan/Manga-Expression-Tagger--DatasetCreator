@@ -31,3 +31,22 @@ testimg3.png -> shock   false
 testimg4.png -> crying  invalid image
 testimg5.png -> happy   invalid image
 testimg6.png -> shock   correct
+
+
+
+This was trained on fairly small dataset (18.26 MB)
+### Dataset used:
+
+Mert Köklü - GNU Affero General Public License
+https://www.kaggle.com/datasets/mertkkl/manga-facial-expressions
+Manga Facial Expressions
+Facial expressions of manga (japanese comic) character faces
+
+About Dataset
+Context
+There are many human facial expression datasets but for mangas (japanese comics) there are none. I hope this tiny dataset would be a good starting point to show the power of manga faces to reflect emotions.
+
+Content
+The dataset consists of several emotions (The number next to them is count of it): • Pleased (38) • Angry (54) • Crying (56) • Sad (57) • Embarrassed (67) • Happy (87) • Shock/Surprised (103)
+
+
